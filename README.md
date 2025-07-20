@@ -43,7 +43,7 @@ Este é um projeto PHP que roda diretamente no terminal.
 
 2. Clone o Repositório:
     Abra seu terminal ou prompt de comando e clone este repositório:
-    git clone https://github.com/seu-usuario/sistema_estoque.git
+    git clone https://github.com/GustavoBeckerDev/sistema-estoque-php.git
     cd sistema_estoque
 
 3. Executar o Programa:
